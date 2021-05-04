@@ -1,0 +1,2 @@
+com/aldeamo/bartender/BartenderApplicationTests.java
+ com.aldeamo.bartender.BartenderApplicationTests
